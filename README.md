@@ -14,10 +14,10 @@ Personal Claude Code marketplace. One plugin per stack — install only what you
 ### Add the marketplace
 
 ```
-/plugin marketplace add /path/to/claude-marketplace
+/plugin marketplace add kaeri-gg/claude-marketplace
 ```
 
-(Point it at your local checkout, or at the Git URL once this repo is pushed to a remote.)
+(That's the GitHub `<owner>/<repo>` shortcut for https://github.com/kaeri-gg/claude-marketplace. You can also pass a local checkout path instead, e.g. `/plugin marketplace add C:\Users\Kaeri\Documents\Projects\claude-marketplace`.)
 
 ### Install the plugin(s) for your stack
 
