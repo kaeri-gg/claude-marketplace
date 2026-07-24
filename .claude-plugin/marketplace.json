@@ -1,0 +1,17 @@
+{
+  "name": "developer-claude-marketplace",
+  "owner": {
+    "name": "Kathleene Povadora",
+    "email": "kathleene.povadora@gmail.com"
+  },
+  "metadata": {
+    "description": "Personal Claude Code marketplace — one plugin per stack (Godot, JavaScript, React, ...)"
+  },
+  "plugins": [
+    {
+      "name": "godot",
+      "source": "./plugins/godot",
+      "description": "Skills for Godot game development — CI/CD, web export, and itch.io/GitHub Pages deployment"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "godot",
+  "description": "Skills for Godot game development — CI/CD, web export, and itch.io/GitHub Pages deployment",
+  "version": "1.0.0",
+  "author": { "name": "Kathleene Povadora", "email": "kathleene.povadora@gmail.com" },
+  "skills": "./skills/"
+}
